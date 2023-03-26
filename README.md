@@ -2,6 +2,9 @@
 
 This repo contains a Demo project using [ARKit](https://developer.apple.com/documentation/arkit/) and [RealityKit](https://developer.apple.com/documentation/realitykit/) to place a 3D model of a pair of glasses onto the users face.
 
+Acknowledgement: This repo is fork from https://github.com/theappbusiness/ARKit-Glasses.
+To learn more about this technology, take a look at this article: https://medium.com/kinandcartacreated/getting-started-with-face-tracking-in-arkit-on-ios-60ada571bcb6
+
 ---
 
 ## Requirements
